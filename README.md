@@ -1,10 +1,4 @@
-# Express API Starter
-
-How to use this template:
-
-```sh
-npx create-express-api --directory my-api-name
-```
+# Genshin Buddy API
 
 Includes API Server utilities:
 
@@ -28,26 +22,3 @@ Development utilities:
 * [supertest](https://www.npmjs.com/package/supertest)
   * HTTP assertions made easy via superagent.
 
-## Setup
-
-```
-npm install
-```
-
-## Lint
-
-```
-npm run lint
-```
-
-## Test
-
-```
-npm test
-```
-
-## Development
-
-```
-npm run dev
-```
